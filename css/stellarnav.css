@@ -136,8 +136,21 @@ body.stellarnav-noscroll-x { overflow-x: hidden; }
 /* mobile nav */
 .stellarnav .close-menu {padding: 15px;}
 .stellarnav .menu-toggle, .stellarnav .call-btn-mobile, .stellarnav .location-btn-mobile { padding: 5px; box-sizing: border-box; }
-.stellarnav .menu-toggle span.bars { display: inline-block; margin-right: 7px; position: relative; top: 3px; }
-.stellarnav .menu-toggle span.bars span { display: block; width: 30px; height: 2px; border-radius: 6px; background: #777; margin: 0 0 5px; }
+.stellarnav .menu-toggle span.bars {
+    display: inline-block;
+    margin-right: 7px;
+    position: relative;
+    top: 3px;
+    right: -50px;
+}
+.stellarnav .menu-toggle span.bars span {
+    display: block;
+    width: 60px;
+    height: 4px;
+    border-radius: 6px;
+    background: #ff4c4c;
+    margin: 0 0 15px;
+}
 .stellarnav .full { width: 100%; }
 .stellarnav .half { width: 50%; }
 .stellarnav .third { width: 33%; text-align: center; }
@@ -153,8 +166,7 @@ body.stellarnav-noscroll-x { overflow-x: hidden; }
 .stellarnav.light.left .menu-toggle, .stellarnav.light.right .menu-toggle { border-bottom: 0; }
 .stellarnav.dark.left .menu-toggle, .stellarnav.dark.right .menu-toggle { border-bottom: 0; }
 .stellarnav.dark .third:first-child, .stellarnav.dark .half:first-child { border-left: 0; }
-.stellarnav.light .menu-toggle span.bars span { background: #000; }
-.stellarnav.dark .menu-toggle span.bars span { background: #FFF; }
+/*.stellarnav.dark .menu-toggle span.bars span { background: #FFF; }*/
 .stellarnav.mobile { position: static; }
 .stellarnav.mobile.fixed { position: static; }
 .stellarnav.mobile ul { position: relative; display: none; }

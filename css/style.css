@@ -85,6 +85,7 @@ img{
     background: rgb(255, 255, 255,255);
     padding: 0px 45px;
     z-index: 9999;
+    position: relative;
 }
 .right-part {
 	margin-top: 0;
@@ -152,12 +153,10 @@ li.appointment a img {
 	position: relative;
 }
 .banner-text {
-	position: absolute;
-	top: 15%;
-	width: 100%;
-	left: 0;
-	right: 0;
-	z-index: 999;
+    position: absolute;
+    margin: 0 auto;
+    top: 50%;
+    left: 9%;
 }
 .banner .item {
 	position: relative;
@@ -203,8 +202,6 @@ li.appointment a img {
     font-size: 50px;
     color: #fff;
     font-weight: 800;
-    text-shadow: 0px 0 1px #082b3d;
-    -webkit-text-stroke: 1px #082b3d;
     line-height: 60px;
 	margin-bottom: 20px;
 }
@@ -241,9 +238,9 @@ li.appointment a img {
     border-radius: 50px;
 }
 .page-btn a:hover {
-    background: #fff;
-	border: 1px solid #082b3d;
-    color: #082b3d !important;
+    background: #043052;
+    border: 1px solid #082b3d;
+    color: #ffffff !important;
 }
 .banner .owl-item.active .page-btn {
 	-webkit-animation-duration: 1.5s;
@@ -672,13 +669,80 @@ section.find-cause-sec.common-space {
 
 
 
-/*===== find-cause-sec =====*/
+/*===== Footer-sec =====*/
 
 
 
 .footer {
     background: #043052;
 }
+h3.address a {
+    font-size: 25px;
+    color: #fff;
+    font-family: 'filson_promedium';
+    line-height: 36px;
+}
+.numberi, .numberii {
+    font-size: 25px;
+    color: #fff;
+    font-family: 'filson_promedium';
+    line-height: 36px;
+}
+ul.social-media li {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+ul.social-media li a {
+    display: block;
+}
+h3.ftr-each-heading {
+    font-size: 31px;
+    line-height: 37px;
+    color: #ff4c4c;
+    margin: 100px 0 40px 0;
+    font-family: 'filson_promedium';
+}
+.footer-each ul.quick-links li a {
+    font-size: 31px;
+}
+.footer-each ul.quick-links li a {
+    font-size: 31px;
+    color: #fff;
+}
+
+.footer-each input[type="email"] {
+    width: 80%;
+    display: flex;
+    margin-bottom: 30px;
+    padding: 30px 30px;
+    background: #4D6C84;
+    border: 1px solid #4D6C84;
+    border-radius: 50px;
+    color: #fff;
+}
+.footer-each input::placeholder {
+    color: #fff;
+}
+.footer-each form input[type="submit"] {
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+    padding: 20px 38px;
+    background: #ff4c4c;
+    border: 1px solid #ff4c4c;
+    display: inline-block;
+    color: #fff;
+    border-radius: 50px;
+}
+
+
+
+
+
+
+
+
 
 
 
