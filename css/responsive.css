@@ -1,0 +1,1102 @@
+/******************************MEDIA QUERIES***********************/
+@media screen and (min-width: 2161px) and (max-width: 3840px) {
+
+	.floating-bnr-text {
+		left: 35.5%;
+	}
+	.inn-floating-bnr-text {
+		left: 35.5%;
+	}
+	.banner-text {
+		left: 35.5%;
+	}
+	.serv-details p {
+		font-size: 15px;
+	}
+	.page-btn a {
+		font-size: 12px;
+	}
+	.floating-bar-point {
+		right: 36.2%;
+	}
+	
+  
+  }
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1981px) and (max-width: 2160px) {
+
+	.floating-bnr-text {
+		left: 24.3%;
+	}
+	.inn-floating-bnr-text {
+		left: 24.3%;
+	}
+	.banner-text {
+		left: 24.3%;
+	}
+	.serv-details p {
+		font-size: 15px;
+	}
+	.page-btn a {
+		font-size: 12px;
+	}
+	.floating-bar-point {
+		right: 25.2%;
+	}
+  
+  }
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1650px) and (max-width: 1980px) {
+
+	.floating-bnr-text {
+	  left: 22%;
+	}
+	.inn-floating-bnr-text {
+		left: 22%;
+	}
+	.banner-text {
+	  left: 22%;
+	}
+	.serv-details p {
+		font-size: 15px;
+	}
+	
+	.floating-bar-point {
+		right: 22%;
+	}
+  
+  }
+  
+
+
+@media screen and (min-width: 1440px) and (max-width: 1650px) {
+
+  .floating-bnr-text {
+    left: 11.5%;
+  }
+  .inn-floating-bnr-text {
+	left: 11.5%;
+}
+  .banner-text {
+    left: 11.5%;
+  }
+
+
+}
+
+@media (min-width: 1380px) and (max-width: 1440px) {
+  .banner-text {
+    left: 11.5%;
+  }
+  .floating-bnr-text {
+	left: 11.5%;
+}
+.inn-floating-bnr-text {
+	left: 11.5%;
+}
+  .grey-box5 {
+    right: 0;
+  }
+  
+
+
+
+
+
+}
+@media (max-width: 1280px) {
+
+	.services-listing-left {
+		background-size: 60%;
+	}
+	.services-listing-right {
+		background-size: 58%;
+	}
+	.grey-box5 {
+		right: 0;
+	}
+	.insignts-page .common-text h1 {
+		font-size: 36px;
+		margin-bottom: 60px;
+		line-height: 38px;
+	}
+	.floating-bnr-text {
+		left: 6.6%;
+	}
+	.inn-floating-bnr-text {
+		left: 6.6%;
+	}
+	.banner-text {
+		left: 6.6%;
+	}
+	.page-btn a {
+		font-size: 12px;
+	}
+	.services-listing-right {
+		background-size: 70%;
+	}
+	
+
+
+
+}
+
+
+@media (max-width: 1099.98px) {
+/*=== 10/12/2019 ===*/
+
+.header .navbar-nav li a {
+	font-size: 12px;
+}
+.services-listing-left .serv-details {
+	padding: 20px 40px 20px 0px;
+}
+.serv-details {
+	padding: 20px 0px 20px 80px;
+}
+.serv-details h1 {
+	font-size: 24px;
+	line-height: 34px;
+}
+.grey-box2 {
+	width: 246px;
+	height: 220px;
+	top: 5%;
+}
+.grey-box3 {
+	height: 230px;
+}
+.serv-details {
+	padding: 20px 0px 20px 40px;
+}
+.pleft {
+	padding: 20px 40px 20px 0px !important;
+}
+.serv-details p {
+	font-size: 13px;
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+.blue-bar2 {
+	left: 240px;
+}
+.grey-box4 {
+	height: 283px;
+	left: -20px;
+}
+.grey-box5 {
+	width: 350px;
+	height: 175px;
+	top: 10%;
+	right: 0;
+}
+.footer-top h4 {
+	width: 70%;
+}
+.services-listing-left {
+	background-size: 61%;
+}
+.services-listing-right {
+	background-size: 65%;
+}
+.banner-text h1 {
+	font-size: 40px;
+	line-height: 52px;
+}
+.stellarnav li a {
+	font-size: 14px;
+}
+.stellarnav > ul > li > a {
+	padding: 40px 28px;
+}
+.floating-bnr-text {
+	left: 6.8%;
+}
+.inn-floating-bnr-text {
+	left: 4.8%;
+}
+.banner-text {
+	left: 6.8%;
+}
+.grey-box {
+	top: 7%;
+}
+.page-btn a {
+	font-size: 10px;
+}
+.review-card p {
+	font-size: 18px !important;
+}
+.inner-pages h1 {
+	font-size: 44px;
+}
+.p-text {
+	width: 100%;
+}
+.WhatWeDo-text h5 {
+	width: 100%;
+	padding: 0 0 0 30px;
+}
+.WhatWeDo-text p {
+	padding: 0 60px 0 30px;
+}
+.time-listing ul li {
+	width: 28%;
+	margin: 7px !important;
+	margin-bottom: 30px !important;
+}
+.help-box input[type="submit"] {
+	margin: 20px 0 10px 36%;
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+@media (max-width: 991.98px) {
+
+
+.header .navbar-nav li a {
+  font-size: 12px;
+  text-align: center;
+}
+.header .navbar-nav li > ul li {
+	margin-bottom: 0px;
+	text-align: center;
+}
+.header .navbar-nav li {
+	margin: 0 18px;
+	position: relative;
+}
+.header .navbar-nav li > ul li a {
+	font-size: 11px;
+}
+
+
+.floating-bnr-text h4 {
+	padding: 120px 15px 0 15px;
+}
+.floating-bnr-text {
+	height: 190px;
+	left: 7.5%;
+}
+.inn-floating-bnr-text {
+	left: 7.5%;
+}
+.banner {
+	height: 500px;
+}
+.banner-text {
+	top: 54%;
+	left: 8%;
+	width: 50%;
+}
+.banner-text h1 {
+	font-size: 26px;
+	line-height: 32px;
+}
+
+.review-card p {
+	font-size: 16px;
+	line-height: 22px;
+}
+.review-box {
+	padding: 40px 30px;
+	height: 360px;
+	margin-bottom: 60px;
+}
+.serv-details {
+	padding: 40px;
+}
+
+.serv-details h1 {
+	font-size: 16px;
+	line-height: 36px;
+}
+.grey-box {
+	height: 270px;
+	top: 3%;
+}
+.serv-details p {
+	font-size: 14px;
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+.services-listing-left .serv-details {
+	padding: 40px;
+}
+.serv-details h5 {
+	font-size: 12px;
+}
+.grey-box2 {
+	width: 216px;
+	height: 250px;
+}
+.grey-box3 {
+	width: 216px;
+	height: 270px;
+	top: 6%;
+}
+.blue-bar2 {
+	left: 56%;
+}
+.grey-box4 {
+	width: 310px;
+	height: 263px;
+	top: 3%;
+}
+.grey-box5 {
+	width: 180px;
+	height: 243px;
+	top: 5%;
+	right: 0;
+}
+.grey-box6 {
+	height: 230px;
+}
+.footer-top h4 {
+	width: 80%;
+}
+.footer-coninfo ul li a h5 {
+	font-size: 10px;
+	color: #fff;
+}
+
+.review-card {
+	margin-top: 80px;
+}
+.floating-bar-point {
+	right: 9%;
+}
+
+.services-listing-right {
+	background-size: 85%;
+}
+.services-listing-left {
+	background-size: 73%;
+}
+.review-card::after {
+	font-family: Georgia, serif;
+	content: "“";
+	position: absolute;
+	bottom: -110px;
+	line-height: 100px;
+	right: 8%;
+	font-size: 8em;
+	color: rgb(0, 188, 240);
+	font-weight: 900;
+}
+.insignts-page .common-text h1 {
+	font-size: 36px;
+	margin-bottom: 40px;
+	line-height: 42px;
+}
+.logo {
+	padding: 0 15px;
+	margin: 0px 0 0 0;
+}
+.menu-toggle {
+	position: absolute;
+	top: 15px;
+	right: 12%;
+}
+.right-part ul {
+	margin: 10px 0 0 0;
+}
+.header {
+	padding: 10px 0;
+}
+.inn-floating-bnr-text {
+	left: 5.5%;
+}
+.big-overlay {
+	display: none;
+}
+.commitment-page {
+	position: relative;
+	padding: 0 15px !important;
+}
+.commitment-page .WhatWeDo-text {
+	margin: 20px 0 0 0;
+	padding: 20px 0 20px 0;
+}
+
+
+
+
+}
+@media (max-width: 812px) {
+.inn-floating-bnr-text {
+	left: 7.5%;
+}
+.WhatWeDo-text h5 {
+	width: 100%;
+	padding: 0 0 0 80px;
+}
+.commitment-page .review-card h3 {
+	font-size: 15px;
+	margin-bottom: 30px;
+	margin-top: 20px;
+}
+.commitment-page .review-card p {
+	font-size: 13px !important;
+	line-height: 15px !important;
+}
+.commitment-page .review-box {
+	padding: 0px 15px 20px;
+}
+.commitment-page .review-card::after {
+	bottom: -110px;
+	font-size: 10em;
+}
+.help-box h5 {
+	font-size: 20px;
+}
+.check-lable {
+	font-size: 10px;
+}
+.help-box input[type="submit"] {
+	margin: 20px 0 10px 4%;
+}
+
+.services-listing-left .serv-image, .services-listing-right .serv-image {
+	display: block;
+}
+.serv-image figure {
+	margin: 46px 0;
+	padding: 0px;
+}
+
+
+
+
+}
+@media (max-width: 768px) {
+  .header .navbar-toggler {
+    position: absolute;
+    right: 50px;
+    top: 10px;
+    display: block;
+  }
+  .floating-bnr-text h4 {
+	font-size: 18px;
+	padding: 70px 15px 0 15px;
+}
+.inn-floating-bnr-text {
+	left: 5%;
+}
+  .floating-bnr-text {
+    height: 130px;
+  }
+  .banner {
+    height: 298px;
+  }
+  .sub-menu {
+    width: 100%;
+    position: inherit;
+    top: 100%;
+    left: 0;
+    padding: 10px;
+    margin: 0 auto;
+    opacity: 0;
+    display: none;
+    right: 0;
+    background: #f2f2f2;
+  }
+.header .navbar-nav li:hover ul {
+	visibility: visible;
+	display: block;
+	margin-top: 0;
+	opacity: 1;
+	transition: 0.5s all ease-in-out;
+	-moz-transition: 0.5s all ease-in-out;
+	-webkit-transition: 0.5s all ease-in-out;
+	-ms-transition: 0.5s all ease-in-out;
+	-o-transition: 0.5s all ease-in-out;
+}
+.review-box {
+	margin-top: -70px;
+}
+.banner-text h1 {
+	font-size: 24px;
+	line-height: 32px;
+}
+.review-card p {
+	font-size: 16px;
+	line-height: 24px;
+}
+.client-pic img {
+	width: 60%;
+	margin: 40px auto;
+	display: block;
+}
+
+.serv-details {
+	background: none;
+}
+
+.grey-box6, .grey-box5, .grey-box4, .grey-box3, .grey-box2, .grey-box {
+	display: none;
+}
+.blue-bar2 {
+	display: none;
+}
+.pleft {
+	padding: 40px !important;
+}
+.bgw {
+	background: #fff;
+}
+.bgg {
+	background: #f4f4f4;
+}
+.footer-top {
+	background-size: 80%;
+}
+.footer-top h4 {
+	width: 100%;
+}
+.footer-social ul {
+	text-align: left;
+}
+.floating-bar-point {
+	display: none;
+}
+.mobile-improve-bar {
+	display: block;
+	background: #02b9f3;
+	padding: 10px 0px 0;
+	position: absolute;
+	z-index: 99;
+	bottom: -60px;
+	left: 0;
+	width: 95%;
+	right: 0;
+	margin: 0 auto;
+}
+.mobile-improve-bar ul li {
+	display: inline-block;
+	width: 32.6%;
+	text-align: center;
+}
+.mobile-improve-bar ul li h1 {
+	font-size: 24px;
+	font-weight: 800;
+	color: #fff;
+}
+.mobile-improve-bar ul li p {
+	font-size: 12px;
+	text-transform: uppercase;
+	line-height: 15px;
+	color: #000;
+	font-weight: 600;
+}
+.mobile-improve-bar ul li:last-child h1 {
+	margin: 0px 0 7px 0;
+}
+.grey-overley {
+	display: none;
+}
+.WhatWeDo-text {
+	padding: 20px 15px;
+	/* background: #fff; */
+	/* background-size: 100% 76%; */
+	/* background-position: bottom; */
+}
+/* .WhatWeDo-text {
+	padding: 50px 15px;
+	background: url(../image/grey-bg.jpg) no-repeat 0 0;
+	background-size: 100% 76%;
+	background-position: bottom;
+} */
+.floating-search form {
+	width: 80%;
+}
+.floating-search form input[type="text"] {
+	width: 80%;
+}
+.page-btn {
+	margin: 0 0 0 auto;
+}
+.sec2 {
+	position: relative;
+	padding: 100px 0 0;
+	background: #2a2a2b;
+	margin-top: 30px;
+}
+.sec2::after {
+	content: "";
+	width: 60px;
+	height: 12px;
+	background: #02b9f2;
+	position: absolute;
+	bottom: 0;
+	left: 10%;
+}
+.serv-details {
+	position: relative;
+}
+.serv-details::after {
+	content: "";
+	width: 60px;
+	height: 12px;
+	background: #02b9f2;
+	position: absolute;
+	bottom: 0;
+}
+
+.insignts-page .common-text h1 {
+	font-size: 28px;
+	line-height: 42px;
+}
+.insignts-page .common-text .page-btn {
+	margin: 0 0 60px 0; 
+}
+.common-text .case-display h4 {
+	font-size: 21px;
+	margin-bottom: 20px;
+}
+
+.logo {
+	margin: 10px 0 10px 0;
+}
+.menu-toggle {
+	position: absolute;
+	top: 24px;
+	right: 20%;
+}
+.right-part ul {
+	margin: 16px 0 0 0;
+}
+.floating-bnr-text {
+	left: 4%;
+}
+
+.banner-text {
+	left: 4%;
+}
+.inner-pages h1 {
+	font-size: 44px;
+	line-height: 42px;
+}
+.WhatWeDo-text {
+	margin-bottom: 30px;
+}
+.WhatWeDo-text h5 {
+	width: 100%;
+	padding: 0 0 0 80px;
+	margin-bottom: 40px;
+}
+.we-do-icon {
+	top: 15px;
+}
+
+
+
+}
+@media (max-width: 736px) { 
+
+	.inn-floating-bnr-text {
+		left: 15.5%;
+	}	
+	.services-listing-left .serv-image, .services-listing-right .serv-image {
+		display: none;
+	}
+	.serv-image {
+		display: none;
+	}
+
+
+
+}
+
+@media (max-width: 575.98px) {
+
+  .banner {
+    height: 250px;
+    background-position: center;
+  }
+  .banner-image img {
+    width: 50%;
+  }
+  .banner-text img {
+    margin: 2% 0 0 0px;
+    width: 60%;
+  }
+  .floating-bnr-text {
+	left: 3%;
+}
+.inn-floating-bnr-text {
+	left: 3%;
+}
+  .header .navbar-brand {
+    width: 50%;
+    margin: 0;
+  }
+  
+  .navbar-nav li a {
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  .header .navbar-toggler {
+    position: absolute;
+    right: 50px;
+    top: 9px;
+  }
+  .header .navbar-nav li:hover ul {
+    visibility: visible;
+    display: block;
+    margin-top: 0;
+    opacity: 1;
+    transition: 0.5s all ease-in-out;
+    -moz-transition: 0.5s all ease-in-out;
+    -webkit-transition: 0.5s all ease-in-out;
+    -ms-transition: 0.5s all ease-in-out;
+    -o-transition: 0.5s all ease-in-out;
+  }
+  .sub-menu {
+    width: 100%;
+    position: inherit;
+    top: 0;
+    margin-top: 30px;
+    opacity: 1;
+    visibility: visible;
+    text-align: center;
+    display: none;
+    transition: 0.5s all ease-in-out;
+    -moz-transition: 0.5s all ease-in-out;
+    -webkit-transition: 0.5s all ease-in-out;
+    -ms-transition: 0.5s all ease-in-out;
+    -o-transition: 0.5s all ease-in-out;
+  }
+  
+.header .navbar-nav li > ul li {
+	margin-bottom: 0px;
+}
+.header .navbar-nav li > ul li a {
+	font-size: 10px;
+}
+.floating-bnr-text h4 {
+	font-size: 14px;
+	padding: 40px 15px 0 15px;
+	text-transform: uppercase;
+	color: #fff;
+}
+.floating-bnr-text {
+	width: 136px;
+	height: 90px;
+}
+.banner-text {
+	top: 48%;
+	left: 3%;
+	width: 90%;
+	height: auto;
+}
+.banner-text h1 {
+	font-size: 21px;
+	line-height: 26px;
+}
+.review-box {
+	height: auto;
+	margin-top: 0;
+	margin-bottom: 0px;
+	padding: 40px 0px;
+}
+.review-card p {
+	font-size: 14px;
+	line-height: 16px;
+}
+.common-text p {
+	width: 100%;
+	font-size: 13px;
+	line-height: 20px;
+}
+.review-title {
+	color: #fff;
+	font-size: 12px;
+}
+.serv-details {
+	padding: 40px 40px;
+}
+.serv-details p {
+	font-size: 14px;
+	line-height: 18px;
+}
+.serv-details h1 {
+	font-size: 20px;
+	line-height: 26px;
+	margin-bottom: 20px;
+}
+.services-listing-left .serv-details {
+	padding: 40px;
+}
+
+.footer-top h4 {
+	width: 100%;
+	font-size: 22px;
+}
+.footer-top {
+	background-size: 100%;
+}
+.footer-coninfo ul {
+	display: block;
+}
+.footer-coninfo ul li {
+	display: inline-block;
+	width: 100%;
+}
+.blue-bar {
+	right: 0;
+}
+.grey-box2 {
+	width: 70%;
+	height: 340px;
+	top: 9%;
+	right: 0;
+}
+.grey-box4 {
+	width: 60%;
+	height: 250px;
+	top: 8%;
+	left: 0;
+}
+.grey-box5 {
+	width: 70%;
+	height: 203px;
+	top: 10%;
+	right: 0;
+}
+.grey-box {
+	width: 70%;
+	height: 320px;
+	top: 8%;
+	left: 0;
+}
+.client-pic img {
+	width: 60%;
+	margin: 40px auto;
+	display: block;
+}
+.grey-box3 {
+	height: 230px;
+}
+.grey-box6 {
+	width: 180px;
+	height: 220px;
+	top: 5%;
+	left: 50px;
+}
+.footer-social ul {
+	text-align: left;
+	margin-top: 30px;
+}
+.logo {
+	padding: 0px 15px 0 15px;
+}
+.right-part {
+	padding: 0 15px;
+}
+.menu {
+	padding: 0;
+}
+.inner-pages h1 {
+	font-size: 32px;
+	margin-bottom: 30px;
+	line-height: 32px;
+}
+.inner-pages h4 {
+	font-size: 18px;
+}
+.p-text {
+	width: 100%;
+	padding: 0 0px 0 0;
+}
+.WhatWeDo-text h5 {
+	width: 90%;
+	font-size: 16px;
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 30px;
+}
+.we-do-icon {
+	top: 30px;
+}
+.WhatWeDo-text {
+	margin: 0px 0 0 0;
+}
+.WhatWeDo-text p {
+	padding: 0px 0px 0 0px;
+	clear: both;
+}
+.time-listing ul {
+	float: left;
+}
+.time-listing ul li:first-child {
+	width: 47%;
+	margin: 0 5px 0 0;
+	float: left;
+}
+.time-listing ul li {
+	display: inline-flex;
+	width: 14%;
+	margin: 4px;
+	margin-bottom: 0px !important;
+}
+.team-details {
+	margin-top: 60px;
+}
+.my-listing {
+	left: 15px;
+}
+.our-team-page p {
+	width: 100%;
+}
+.inner-banner img {
+	height: 140px;
+}
+.inner-banner {
+	height: 140px;
+}
+.inn-floating-bnr-text {
+	height: 100px;
+}
+.inn-floating-bnr-text h4 {
+	padding: 30px 15px 0 15px;
+}
+.sec2 {
+	padding: 60px 0 0;
+	background: #2a2a2b;
+	margin-top: 20px;
+}
+.insignts-page .common-text h1 {
+	font-size: 24px;
+	line-height: 32px;
+}
+.floating-search form input[type="text"] {
+	margin-right: 4px;
+}
+.floating-search form input[type="submit"] {
+	width: 18%;
+}
+.share-btn {
+	left: 0px;
+}
+.menu-toggle {
+	position: absolute;
+	top: 22px;
+	right: 10%;
+}
+.commitment-page {
+	position: relative;
+	padding: 0 !important;
+}
+.commitment-page .review-box {
+	padding: 0px 30px 100px;
+}
+.commitment-page .review-card h3 {
+	font-size: 18px;
+}
+
+
+
+
+
+
+}
+@media (max-width: 480px) {
+  .grey-box2 {
+    width: 70%;
+    height: 340px;
+    top: 9%;
+    right: 0;
+  }
+  .grey-box3 {
+    height: 240px;
+  }
+  .grey-box4 {
+    width: 60%;
+    height: 283px;
+    top: 8%;
+    left: 0;
+  }
+  .grey-box5 {
+    width: 70%;
+    height: 293px;
+    top: 8%;
+    right: 0;
+  }
+  .grey-box {
+    width: 70%;
+    height: 320px;
+    top: 8%;
+    left: 0;
+  }
+  .grey-box6 {
+    width: 180px;
+    height: 280px;
+    top: 8%;
+    left: 0;
+  }
+  .grey-box5 {
+	width: 70%;
+	height: 293px;
+	top: 8%;
+	right: 0;
+}
+.header {
+	padding: 10px 0;
+}
+.menu-toggle {
+	position: absolute;
+	top: 15px;
+	right: 40px;
+}
+.right-part ul {
+	margin: 8px 0 0 0;
+}
+.logo {
+	margin: 0px 0 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width: 375px) {
+  
+
+}
